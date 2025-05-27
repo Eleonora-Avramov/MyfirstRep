@@ -1,5 +1,5 @@
 # This is my Project
-I will explain my project here
+I will edit my project here
 
 ## This is a subheading
 another explanation
