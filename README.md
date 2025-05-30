@@ -5,4 +5,4 @@ I will explain my project here
 another explanation
 
 * Bullet Point 1
-* Bullet Point 2
+* 
